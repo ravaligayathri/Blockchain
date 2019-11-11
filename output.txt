@@ -1,0 +1,53 @@
+
+##################### Creating Blockchain #####################
+
+##################### Block  0 #####################
+
+Previoushash== 00000000000000000000000000000000
+Merkle root=== ceabde2d98db4ef4573e4f1767f51c1c
+Nonce=== 61096
+block hash=== 00008c8c435c97363d636b9fe6ee071e 
+
+
+##################### Block  1 #####################
+
+Previoushash== 00008c8c435c97363d636b9fe6ee071e
+Merkle root=== d979ceafcb40d4e695c4c75334b4b89f
+Nonce=== 113443
+block hash=== 0000f74009c685182b9e534fbdfdfb5d 
+
+
+##################### Block  2 #####################
+
+Previoushash== 0000f74009c685182b9e534fbdfdfb5d
+Merkle root=== 2d94b9e57bd270d0fe2af4bc071655d2
+Nonce=== 40514
+block hash=== 000030d7e8b8dc685d64c0d238daf762 
+
+
+##################### Block  3 #####################
+
+Previoushash== 000030d7e8b8dc685d64c0d238daf762
+Merkle root=== bda0f169c74dbef5a9777e0336fbea2e
+Nonce=== 63355
+block hash=== 000047093ef8686b9f031e7715708485 
+
+
+##################### Block  4 #####################
+
+Previoushash== 000047093ef8686b9f031e7715708485
+Merkle root=== 218717076fdaad40532e7b8d1aabb0a8
+Nonce=== 83739
+block hash=== 0000b76f156266d8abd3d6d13475a42a 
+
+
+##################### Proof of Work #####################
+Headline Found:  {'msg': 'cabinet meets to balance budget priorities', 'pk': 'Curve( 463 -2 2 ); G( 155 452 ); PK( 263 231 ); PKOrder( 149 )', 'signature': [9, 30]}  Tuple hash:  da74acf3f3d76c51bed389f938699e17
+
+Following is the traversal path from Merkle root to leaf node found in Block  0
+ceabde2d98db4ef4573e4f1767f51c1c
+d4f2f867431d434a983513a90296e9ee
+847d1ab45cfc82a5b04c15a93cc5bdad
+6dee058330945e93e2d89776baccfd36
+14f8d51eda4f0e89c725564e32789c6c
+da74acf3f3d76c51bed389f938699e17
